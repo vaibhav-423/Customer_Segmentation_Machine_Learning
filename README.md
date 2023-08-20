@@ -35,7 +35,7 @@ This is because marketing efforts are directed towards customers who are more li
 
 
 
-# Ouput Of The Product 
+# Ouput Of The Model 
  The complite customers are divided into 3 clusters where each cluster have one unique clsuter_ID.\n
  The Clusters_ID are 0 , 1, 2
 
