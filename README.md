@@ -36,11 +36,47 @@ This is because marketing efforts are directed towards customers who are more li
 
 
 # Ouput Of The Product 
+ The complite customers are divided into 3 clusters where each cluster have one unique clsuter_ID.\n
+ The Clusters_ID are 0 , 1, 2
+
+### 1. Amount vs Clusters ID
+This Below graph show 
+
+           1.Customers having cluster_ID=0 are spending less money into the shop.
+           
+           2.Customer  having cluster_ID=1 are spending more money into the shop.
+           
+           3.Customer having cluster_ID=2 are moderatly spending money into the shop.
+           
+
+
+![Screenshot (1074)](https://github.com/vaibhav-423/Customer_Segmentation_Machine_Learning/assets/109592379/cbd8a977-2038-437a-a027-c5a82bb4fd5a)
+
+
+### 2. Frequency vs Clusters ID
+
+This Below graph show 
+
+           1.Customers having cluster_ID=0 are less repeating customers.
+           
+           2.Customer  having cluster_ID=1 are highly repeating customers.
+           
+           3.Customer having cluster_ID=2 are moderatly repeating customers.
+
+
+![Screenshot (1075)](https://github.com/vaibhav-423/Customer_Segmentation_Machine_Learning/assets/109592379/0a937cb1-58a9-4997-903a-1ee97c31156d)
 
 
 
+### 2. Recency vs Clusters ID
 
+This Below graph show 
 
+           1.Customers having cluster_ID=0 have high Recancy.
+           
+           2.Customer  having cluster_ID=1 have very less Recency.
+           
+           3.Customer having cluster_ID=2 have moderate Recency.
 
-
+![image](https://github.com/vaibhav-423/Customer_Segmentation_Machine_Learning/assets/109592379/da8167fc-4bd6-4935-8598-8ba123ea0f4a)
 
